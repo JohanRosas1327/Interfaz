@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HOBBIES">
+        <item> SOCCER </item>
+        <item> TENNIS </item>
+        <item> SWIM </item>
+        <item> READ </item>
+        <item> SING </item>
+        <item> LISTEN MUSIC </item>
+        <item> BASKETBALL </item>
+    </string-array>
+</resources>
